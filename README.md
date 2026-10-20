@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BhaveshKumar9/BhaveshKumar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi there, I'm Bhavesh Kumar 👋
 
-Here are some ideas to get you started:
+  **Software Engineering Undergraduate @ Mehran UET**  
+  *Building functional solutions • Exploring AI • Turning ideas into code*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kumar29/)
+  [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/BhaveshKumar9](https://github.com/BhaveshKumar9))
+
+</div>
+
+<br />
+
+## 🚀 About Me
+
+> *"The best way to predict the future is to invent it."*
+
+I am a Software Engineering student at **Mehran University of Engineering and Technology (Mehran UET)**, passionate about creating a solid foundation in programming, logic, and core technology concepts.
+
+- 🎓 **Education:** Pursuing a Bachelor's Degree in Software Engineering at Mehran UET.
+- 🧠 **Current Focus:** Deepening my understanding of software logic, fundamental artificial intelligence concepts, and practical system design.
+- 🤝 **Collaboration:** Enthusiastic about working on open-source projects, peer learning, and contributing to impactful tech solutions.
+- 🎯 **Goals:** Building real-world applications and connecting with fellow developers and industry professionals.
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bhavesh-kumar29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-kumar29&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+I'm always open to discussing new projects, tech ideas, or opportunities to collaborate!
+
+- 💼 **LinkedIn:** [bhavesh-kumar29](https://www.linkedin.com/in/bhavesh-kumar29/)
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by Bhavesh Kumar</sub>
+</div>
