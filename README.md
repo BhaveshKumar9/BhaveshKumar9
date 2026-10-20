@@ -27,14 +27,6 @@ I am a Software Engineering student at **Mehran University of Engineering and Te
 
 ---
 
-## ⚡ Quick Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bhavesh-kumar29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-kumar29&theme=tokyonight" />
-</div>
-
----
 
 ## 📫 Connect with Me
 
