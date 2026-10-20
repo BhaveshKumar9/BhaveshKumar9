@@ -32,7 +32,7 @@ I am a Software Engineering student at **Mehran University of Engineering and Te
 
 I'm always open to discussing new projects, tech ideas, or opportunities to collaborate!
 
-- 💼 **LinkedIn:** [bhavesh-kumar29](https://www.linkedin.com/in/bhavesh-kumar29/)
+- 💼 **LinkedIn:** [Bhavesh-Kumar](https://www.linkedin.com/in/bhavesh-kumar29/)
 
 ---
 
