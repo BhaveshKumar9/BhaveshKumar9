@@ -8,7 +8,7 @@
   ---
 
   [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kumar29/)
-  [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/BhaveshKumar9](https://github.com/BhaveshKumar9))
+  [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhaveshKumar9)
 
 </div>
 
@@ -45,5 +45,5 @@ I'm always open to discussing new projects, tech ideas, or opportunities to coll
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by Bhavesh Kumar</sub>
+  <sub>Designed with by Bhavesh Kumar</sub>
 </div>
